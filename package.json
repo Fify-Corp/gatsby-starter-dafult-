@@ -12,7 +12,7 @@
   "private": false,
   "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "Fify" <fifyrafiena@gmail.com>",
+  "author": "Fify <fifyrafiena@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
