@@ -1,9 +1,18 @@
 {
+  "name": "@my-org/server",
+  "version": "1.0.0",
+  "description": "Server app that uses the @octo-org/octo-app package",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+  "@octo-org/octo-app": "1.0.0"
+}
   "name": "gatsby-starter-blog",
-  "private": true,
+  "private": false,
   "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Fify" <fifyrafiena@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -31,6 +40,7 @@
     "react-helmet": "^6.1.0",
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.75"
+    "babel-eslint@": "^10.0.0"
   },
   "devDependencies": {
     "prettier": "^2.7.1"
